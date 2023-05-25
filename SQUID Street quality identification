@@ -1,0 +1,59 @@
+
+code - Search Results
+7.1k files
+- [Street Quality IDentification [SQUID]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with m…
+- [Street Quality IDentification [SQUID]](https://squid-syracuse.herokuapp.com/) - 用地图、数据表和违规道路的照片突出质量差的道路. [Source Cod…
+        return states;
+    };
+    Chance.prototype.street = function (options) {
+        options = initOptions(options, { country: 'us', syllables: 2 });
+        var     street;
+Show 36 more matches
+    html.Div(
+        [
+            html.H1(
+                'Street Quality IDentification [SQUID]',
+                style={'font-family': 'Helvetica',
+                       "margin-top": "25",
+                       "margin-bottom": "0"},
+Show 27 more matches
+https://squid-syracuse.herokuapp.com/,Street Quality IDentification [SQUID],https://github.com/ucg8j/awesome-dash#readm…
+…ly executing billions of tests so far. To maintain high quality, the project is following the [Core Infrastructure Ini…
+        std::string street;
+        NLOHMANN_DEFINE_TYPE_INTRUSIVE(address, street, housenumber, postcode)
+- [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) for the style of the documentation site
+…The code can be compiled without C++ **runtime type identification** features; that is, you can use the `-fno-rtti` co…
+        return states;
+    };
+    Chance.prototype.street = function (options) {
+        options = initOptions(options, { country: 'us', syllables: 2 });
+        var     street;
+Show 36 more matches
+poetic 1
+quality 1
+aaahhhh 1
+marshovala 1
+identification 1
+dispensing 1
+Show 7 more matches
+| 456 | 225 | 228 | 2 months ago | [fixmystreet](https://github.com/mysociety/fixmystreet)/153 | This is mySociety's po…
+…d Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for …
+…e](https://github.com/tagucci/pythonrouge)/403 | Python wrapper for evaluating summarization quality by ROUGE package |
+| 158 | 32 | 31 | 1 year, 3 months ago | [squid-windows](https://github.com/diladele/squid-windows)/420 | Squid Proxy b…
+…ever is a highly accurate and sensitive program for identification of LTR retrotransposons; The LTR Assembly Index (LA…
+| 120 | 35 | 4 | 1 year, 9 months ago | [squidanalyzer](https://github.com/darold/squidanalyzer)/544 | Squid Analyzer p…
+identifiable
+identification
+identified
+qualities
+quality
+qualm
+Show 7 more matches
+ * [FFaker::Identification](#ffakeridentification)
+ * [FFaker::IdentificationBR](#ffakeridentificationbr)
+ * [FFaker::IdentificationEC](#ffakeridentificationec)
+ * [FFaker::IdentificationES](#ffakeridentificationes)
+ * [FFaker::IdentificationESCL](#ffakeridentificationescl)
+ * [FFaker::IdentificationESCO](#ffakeridentificationesco)
+ * [FFaker::IdentificationIN](#ffakeridentificationin)
+ * [FFaker::IdentificationIT](#ffakeridentificationit
